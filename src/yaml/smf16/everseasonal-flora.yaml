@@ -1,7 +1,7 @@
 group: smf16
 name: everseasonal
 version: "1.0"
-subfolder: 150-overrides
+subfolder: 150-mods
 info:
   summary: Everseasonal Variant Switcher
   description: |-
