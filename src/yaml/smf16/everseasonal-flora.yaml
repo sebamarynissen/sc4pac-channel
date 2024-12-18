@@ -54,7 +54,8 @@ info:
     This means that if you ever plan to use them as true seasonal flora again, it is still important to plant them on September 1st, or they will be out of sync if you remove this mod!
   author: smf_16
 dependencies:
-  - memo:submenus-dll
+  # Comment out for testing
+  # - memo:submenus-dll
   - smf16:everseasonal
 variants:
   - variant: { smf16:everseasonal:mode: summer }
