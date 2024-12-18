@@ -12,7 +12,7 @@ jobs:
     with:
       path: src/yaml
       channel-label: Test
-      deploy-repository: memo33/sc4pac-test-channel
+      deploy-repository: sebamarynissen/sc4pac-channel
       use-stex-api: true
     secrets:
       stex-api-key: ${{ secrets.STEX_API_KEY }}
